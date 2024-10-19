@@ -1,3 +1,5 @@
+window.location.href = "/profile"
+
 var nuevaImagen = "https://ibb.co/TqPgw8K";
 
 var form = new FormData();
