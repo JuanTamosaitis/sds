@@ -1,5 +1,5 @@
 // URL of the image
-const imageUrl = "https://ibb.co/TqPgw8K";
+const imageUrl = "https://iili.io/23zc0YP.png";
 
 // Fetch the image as a blob
 fetch(imageUrl)
